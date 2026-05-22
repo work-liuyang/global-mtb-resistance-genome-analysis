@@ -1,0 +1,96 @@
+Drug	Feature	Origin mutations	Confidence	Importance
+isoniazid	katG_p.Ser315Thr	katG_p.Ser315Thr	Assoc w R	0.633196
+isoniazid	n.1673425C>T	fabG1_c.-15C>T	Assoc w R	0.200117
+isoniazid	katG_p.Ser315Asn	katG_p.Ser315Asn	Assoc w R	0.052067
+isoniazid	n.2726141C>T	ahpC_c.-52C>T	Uncertain significance	0.018381
+isoniazid	n.1674048G>A	inhA_c.-154G>A	Assoc w R	0.012695
+isoniazid	n.2726145G>A	ahpC_c.-48G>A	Uncertain significance	0.01116
+isoniazid	katG_frameshift_variant	katG_frameshift_variant	Assoc w R	0.006761
+isoniazid	n.2726136C>T	ahpC_c.-57C>T	Uncertain significance	0.006652
+isoniazid	n.2726139C>T	ahpC_c.-54C>T	Uncertain significance	0.006282
+isoniazid	n.2726112C>T	ahpC_c.-81C>T	Uncertain significance	0.005322
+isoniazid	katG_p.Ser315Arg	katG_p.Ser315Arg	Uncertain significance	0.004
+isoniazid	katG_p.Trp300Gly	katG_p.Trp300Gly	Uncertain significance	0.003977
+isoniazid	katG_p.Ser315Gly	katG_p.Ser315Gly	Uncertain significance	0.003654
+isoniazid	inhA_p.Ser94Ala	inhA_p.Ser94Ala	Uncertain significance	0.0033
+isoniazid	n.2726119G>A	ahpC_c.-74G>A	Uncertain significance	0.003177
+isoniazid	n.1673432T>C	fabG1_c.-8T>C	Assoc w R - interim	0.003122
+isoniazid	katG_p.Asn138Asp	katG_p.Asn138Asp	Uncertain significance	0.002783
+isoniazid	katG_p.Tyr337Cys	katG_p.Tyr337Cys	Uncertain significance	0.002697
+isoniazid	katG_p.Ala109Val	katG_p.Ala109Val	Uncertain significance	0.002687
+isoniazid	n.2156121T>G	katG_c.-10A>C	Uncertain significance	0.002662
+isoniazid	n.1673423G>T	fabG1_c.-17G>T	Uncertain significance	0.002566
+isoniazid	n.1673432T>A	fabG1_c.-8T>A	Assoc w R - interim	0.002287
+isoniazid	katG_p.Ala106Val	katG_p.Ala106Val	Uncertain significance	0.001652
+isoniazid	katG_p.Gln127Pro	katG_p.Gln127Pro	Uncertain significance	0.001612
+isoniazid	katG_stop_lost	katG_stop_lost	Assoc w R	0.001459
+isoniazid	katG_p.Tyr155Ser	katG_p.Tyr155Ser	Uncertain significance	0.001333
+isoniazid	n.2156118C>T	katG_c.-7G>A	Uncertain significance	0.001262
+isoniazid	katG_p.Met126Ile	katG_p.Met126Ile	Uncertain significance	0.000632
+isoniazid	inhA_p.Ile21Thr	inhA_p.Ile21Thr	Uncertain significance	0.000612
+isoniazid	katG_p.Gly285Asp	katG_p.Gly285Asp	Uncertain significance	0.000545
+isoniazid	katG_p.Gly234Glu	katG_p.Gly234Glu	Uncertain significance	0.000493
+isoniazid	katG_p.Trp91Arg	katG_p.Trp91Arg	Uncertain significance	0.000247
+isoniazid	katG_p.Thr394Ala	katG_p.Thr394Ala	Uncertain significance	0.00024
+isoniazid	katG_p.Ser140Asn	katG_p.Ser140Asn	Uncertain significance	0.000133
+isoniazid	katG_p.Thr308Pro	katG_p.Thr308Pro	Mutation_from_literature	0.000108
+isoniazid	inhA_p.Ile194Thr	inhA_p.Ile194Thr	Uncertain significance	0.000101
+isoniazid	katG_p.Trp191Arg	katG_p.Trp191Arg	Uncertain significance	0.000025
+rifampicin	rpoB_p.Ser450Leu	rpoB_p.Ser450Leu	Assoc w R	0.535573
+rifampicin	rpoB_p.His445Tyr	rpoB_p.His445Tyr	Assoc w R	0.076158
+rifampicin	rpoB_p.Leu452Pro	rpoB_p.Leu452Pro	Assoc w R	0.056651
+rifampicin	rpoB_p.His445Asp	rpoB_p.His445Asp	Assoc w R	0.048913
+rifampicin	rpoB_p.Asp435Val	rpoB_p.Asp435Val	Assoc w R	0.040558
+rifampicin	rpoB_p.Leu430Pro	rpoB_p.Leu430Pro	Assoc w R	0.039902
+rifampicin	rpoB_p.His445Arg	rpoB_p.His445Arg	Assoc w R	0.028735
+rifampicin	rpoB_p.Asp435Tyr	rpoB_p.Asp435Tyr	Assoc w R	0.026439
+rifampicin	rpoB_p.His445Leu	rpoB_p.His445Leu	Assoc w R	0.026072
+rifampicin	rpoB_p.Ser450Trp	rpoB_p.Ser450Trp	Assoc w R	0.021452
+rifampicin	rpoB_p.His445Asn	rpoB_p.His445Asn	Assoc w R	0.020772
+rifampicin	rpoB_p.Ser441Leu	rpoB_p.Ser441Leu	Assoc w R	0.015513
+rifampicin	rpoB_p.Val170Phe	rpoB_p.Val170Phe	Assoc w R	0.01548
+rifampicin	rpoB_p.Ile491Phe	rpoB_p.Ile491Phe	Assoc w R	0.011507
+rifampicin	rpoB_p.Ser450Phe	rpoB_p.Ser450Phe	Assoc w R	0.00744
+rifampicin	rpoB_p.His445Ser	rpoB_p.His445Ser	Assoc w R	0.007375
+rifampicin	rpoB_p.His445Cys	rpoB_p.His445Cys	Assoc w R	0.005082
+rifampicin	rpoB_p.Asp435Gly	rpoB_p.Asp435Gly	Assoc w R - interim	0.003144
+rifampicin	rpoB_p.His445Gln	rpoB_p.His445Gln	Assoc w R - interim	0.002872
+rifampicin	rpoB_p.His445Gly	rpoB_p.His445Gly	Assoc w R - interim	0.002552
+rifampicin	rpoB_p.Gln432Pro	rpoB_p.Gln432Pro	Assoc w R	0.002494
+rifampicin	rpoB_p.Asn438del	rpoB_p.Asn438del	Assoc w R - interim	0.002436
+rifampicin	rpoB_p.Leu430Arg	rpoB_p.Leu430Arg	Assoc w R - interim	0.00105
+rifampicin	rpoB_p.Met434Val	rpoB_p.Met434Val	Assoc w R - interim	0.000646
+rifampicin	rpoB_p.Ala451Val	rpoB_p.Ala451Val	Assoc w R - interim	0.000342
+rifampicin	rpoB_p.Thr427Ala	rpoB_p.Thr427Ala	Assoc w R - interim	0.000303
+rifampicin	rpoB_p.Asn437Asp	rpoB_p.Asn437Asp	Assoc w R - interim	0.000291
+rifampicin	rpoB_p.Asp435Ala	rpoB_p.Asp435Ala	Assoc w R - interim	0.00025
+ethambutol	embB_p.Met306Val	embB_p.Met306Val	Assoc w R	0.458365
+ethambutol	embB_p.Met306Ile	embB_p.Met306Ile	Assoc w R	0.193415
+ethambutol	embB_p.Gln497Arg	embB_p.Gln497Arg	Assoc w R	0.092067
+ethambutol	embB_p.Gly406Ala	embB_p.Gly406Ala	Assoc w R	0.055352
+ethambutol	embB_p.Gly406Asp	embB_p.Gly406Asp	Assoc w R	0.040792
+ethambutol	embB_p.Tyr319Ser	embB_p.Tyr319Ser	Assoc w R	0.033634
+ethambutol	embB_p.Gly406Ser	embB_p.Gly406Ser	Assoc w R	0.030341
+ethambutol	embB_p.Asp354Ala	embB_p.Asp354Ala	Assoc w R	0.022587
+ethambutol	n.4243221C>T	embA_c.-12C>T	Assoc w R	0.021859
+ethambutol	embB_p.Asp328Tyr	embB_p.Asp328Tyr	Assoc w R	0.021057
+ethambutol	embB_p.Gln497Lys	embB_p.Gln497Lys	Assoc w R	0.015605
+ethambutol	embB_p.Gly406Cys	embB_p.Gly406Cys	Assoc w R	0.007573
+ethambutol	embB_p.Tyr319Cys	embB_p.Tyr319Cys	Assoc w R	0.005173
+ethambutol	embB_p.Met306Leu	embB_p.Met306Leu	Assoc w R	0.002178
+ethionamide	n.1673425C>T	fabG1_c.-15C>T	Assoc w R	0.864119
+ethionamide	ethA_frameshift_variant	ethA_frameshift_variant	Assoc w R	0.059915
+ethionamide	n.1674048G>A	inhA_c.-154G>A	Assoc w R - interim	0.034442
+ethionamide	ethA_stop_gained	ethA_stop_gained	Assoc w R - interim	0.017408
+ethionamide	n.1673432T>C	fabG1_c.-8T>C	Assoc w R - interim	0.013846
+ethionamide	inhA_p.Ser94Ala	inhA_p.Ser94Ala	Assoc w R - interim	0.01027
+moxifloxacin	gyrA_p.Ala90Val	gyrA_p.Ala90Val	Assoc w R	0.802139
+moxifloxacin	gyrA_p.Ser91Pro	gyrA_p.Ser91Pro	Assoc w R	0.197861
+levofloxacin	gyrA_p.Ala90Val	gyrA_p.Ala90Val	Assoc w R	0.843297
+levofloxacin	gyrA_p.Ser91Pro	gyrA_p.Ser91Pro	Assoc w R	0.156703
+kanamycin	n.1473246A>G	rrs_n.1401A>G	Assoc w R	0.761235
+kanamycin	n.2715342C>T	eis_c.-10G>A	Assoc w R	0.108873
+kanamycin	n.2715346G>A	eis_c.-14C>T	Assoc w R	0.065398
+kanamycin	n.1473329G>T	rrs_n.1484G>T	Assoc w R	0.064494
+amikacin	n.1473246A>G	rrs_n.1401A>G	Assoc w R	0.920944
+amikacin	n.1473329G>T	rrs_n.1484G>T	Assoc w R - interim	0.079056

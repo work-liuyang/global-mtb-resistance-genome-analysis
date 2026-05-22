@@ -1,0 +1,177 @@
+Area	drtype	count
+Democratic Republic of the Congo	Sensitive	4
+Democratic Republic of the Congo	Pre-XDR-TB	2
+Democratic Republic of the Congo	MDR-TB	4
+Ivory Coast	Sensitive	7
+Ivory Coast	Pre-XDR-TB	2
+Ivory Coast	MDR-TB	4
+Ivory Coast	HR-TB	1
+Gambia	Sensitive	15
+Colombia	Other	2
+Colombia	Sensitive	13
+Colombia	MDR-TB	1
+Nepal	Pre-XDR-TB	11
+Nepal	MDR-TB	3
+Nepal	Sensitive	2
+Nepal	Other	1
+Ecuador	Pre-XDR-TB	6
+Ecuador	MDR-TB	15
+Kazakhstan	Pre-XDR-TB	15
+Kazakhstan	Sensitive	2
+Kazakhstan	MDR-TB	6
+Kazakhstan	Other	1
+Kazakhstan	XDR-TB	1
+Nigeria	RR-TB	9
+Nigeria	MDR-TB	17
+Nigeria	Pre-XDR-TB	2
+Nigeria	Sensitive	7
+Romania	MDR-TB	23
+Romania	Pre-XDR-TB	10
+Romania	RR-TB	1
+Slovakia	Sensitive	32
+Slovakia	Other	1
+Slovakia	Pre-XDR-TB	1
+Slovakia	MDR-TB	2
+Botswana	Sensitive	17
+Botswana	HR-TB	4
+Botswana	RR-TB	6
+Botswana	MDR-TB	11
+South Korea	Sensitive	17
+South Korea	Pre-XDR-TB	18
+South Korea	HR-TB	2
+South Korea	RR-TB	1
+South Korea	MDR-TB	1
+Thailand	Pre-XDR-TB	8
+Thailand	MDR-TB	4
+Thailand	Other	1
+Thailand	HR-TB	1
+Thailand	Sensitive	1
+Iran	MDR-TB	11
+Iran	Pre-XDR-TB	23
+Iran	Sensitive	2
+Uganda	Sensitive	6
+Uganda	MDR-TB	30
+Uganda	HR-TB	1
+Uganda	RR-TB	3
+Papua New Guinea	MDR-TB	84
+Papua New Guinea	RR-TB	4
+Papua New Guinea	Pre-XDR-TB	4
+Papua New Guinea	HR-TB	1
+Madagascar	Sensitive	54
+Madagascar	HR-TB	5
+Madagascar	MDR-TB	39
+Madagascar	Other	3
+Madagascar	RR-TB	4
+UK	Sensitive	41
+UK	Other	13
+UK	Pre-XDR-TB	12
+UK	MDR-TB	13
+UK	HR-TB	11
+UK	RR-TB	5
+Argentina	MDR-TB	88
+Argentina	Pre-XDR-TB	21
+Argentina	Sensitive	1
+Argentina	HR-TB	2
+Argentina	RR-TB	3
+Argentina	XDR-TB	2
+Argentina	Other	1
+Spain	Sensitive	124
+Spain	Other	9
+Spain	MDR-TB	1
+Spain	HR-TB	4
+Israel	MDR-TB	14
+Israel	Pre-XDR-TB	5
+Israel	Sensitive	94
+Israel	HR-TB	10
+Israel	Other	25
+Georgia	MDR-TB	38
+Georgia	Sensitive	123
+Georgia	Other	6
+Georgia	HR-TB	9
+Georgia	Pre-XDR-TB	19
+Czech Republic	Other	14
+Czech Republic	Sensitive	89
+Czech Republic	HR-TB	41
+Czech Republic	Pre-XDR-TB	23
+Czech Republic	MDR-TB	55
+Czech Republic	XDR-TB	1
+France	Sensitive	176
+France	Other	28
+France	HR-TB	14
+France	MDR-TB	4
+France	RR-TB	1
+France	Pre-XDR-TB	2
+Tanzania	Sensitive	276
+Tanzania	HR-TB	19
+Tanzania	RR-TB	5
+Tanzania	Other	14
+Tanzania	MDR-TB	5
+South Africa	Pre-XDR-TB	69
+South Africa	MDR-TB	144
+South Africa	HR-TB	25
+South Africa	RR-TB	75
+South Africa	Sensitive	57
+South Africa	Other	7
+Paraguay	Sensitive	287
+Paraguay	HR-TB	47
+Paraguay	Other	15
+Paraguay	MDR-TB	1
+Paraguay	RR-TB	1
+Japan	Other	94
+Japan	Sensitive	435
+Japan	HR-TB	46
+Japan	RR-TB	5
+Japan	MDR-TB	3
+Japan	Pre-XDR-TB	1
+Italy	Other	69
+Italy	Sensitive	509
+Italy	HR-TB	17
+Italy	Pre-XDR-TB	10
+Italy	MDR-TB	19
+Italy	RR-TB	4
+Italy	XDR-TB	2
+USA	Sensitive	662
+USA	MDR-TB	17
+USA	Other	76
+USA	HR-TB	72
+USA	RR-TB	10
+USA	Pre-XDR-TB	3
+India	Sensitive	308
+India	Other	31
+India	MDR-TB	111
+India	Pre-XDR-TB	273
+India	HR-TB	68
+India	RR-TB	28
+India	XDR-TB	28
+Vietnam	Other	316
+Vietnam	Sensitive	885
+Vietnam	HR-TB	361
+Vietnam	MDR-TB	65
+Vietnam	Pre-XDR-TB	4
+Vietnam	RR-TB	2
+Peru	MDR-TB	136
+Peru	Sensitive	1432
+Peru	Other	143
+Peru	Pre-XDR-TB	7
+Peru	RR-TB	22
+Peru	HR-TB	143
+Moldova	MDR-TB	585
+Moldova	Other	210
+Moldova	Sensitive	897
+Moldova	Pre-XDR-TB	190
+Moldova	HR-TB	259
+Moldova	XDR-TB	15
+Moldova	RR-TB	6
+China	Pre-XDR-TB	288
+China	MDR-TB	326
+China	RR-TB	42
+China	HR-TB	207
+China	Sensitive	1592
+China	Other	302
+China	XDR-TB	3
+Australia	Sensitive	2434
+Australia	Other	333
+Australia	HR-TB	269
+Australia	MDR-TB	47
+Australia	Pre-XDR-TB	15
+Australia	RR-TB	12

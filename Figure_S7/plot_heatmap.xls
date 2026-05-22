@@ -1,0 +1,88 @@
+features	Isoniazid	Rifampicin	Ethambutol	Ethionamide	Amikacin	Levofloxacin	Moxifloxacin	Kanamycin	Confidence
+katG_p.Ser315Thr	0.633196								AssocwR
+fabG1_c.-15C>T	0.200117			0.864119					AssocwR
+katG_p.Ser315Asn	0.052067								AssocwR
+ahpC_c.-52C>T	0.018381								Uncertain
+inhA_c.-154G>A	0.012695			0.034442					AssocwR
+ahpC_c.-48G>A	0.01116								Uncertain
+katG_frameshift_variant	0.006761								AssocwR
+ahpC_c.-57C>T	0.006652								Uncertain
+ahpC_c.-54C>T	0.006282								Uncertain
+ahpC_c.-81C>T	0.005322								Uncertain
+katG_p.Ser315Arg	0.004								Uncertain
+katG_p.Trp300Gly	0.003977								Uncertain
+katG_p.Ser315Gly	0.003654								Uncertain
+inhA_p.Ser94Ala	0.0033			0.01027					AssocwR
+ahpC_c.-74G>A	0.003177								Uncertain
+fabG1_c.-8T>C	0.003122			0.013846					AssocwR
+katG_p.Asn138Asp	0.002783								Uncertain
+katG_p.Tyr337Cys	0.002697								Uncertain
+katG_p.Ala109Val	0.002687								Uncertain
+katG_c.-10A>C	0.002662								Uncertain
+fabG1_c.-17G>T	0.002566								Uncertain
+fabG1_c.-8T>A	0.002287								AssocwR
+katG_p.Ala106Val	0.001652								Uncertain
+katG_p.Gln127Pro	0.001612								Uncertain
+katG_stop_lost	0.001459								AssocwR
+katG_p.Tyr155Ser	0.001333								Uncertain
+katG_c.-7G>A	0.001262								Uncertain
+katG_p.Met126Ile	0.000632								Uncertain
+inhA_p.Ile21Thr	0.000612								Uncertain
+katG_p.Gly285Asp	0.000545								Uncertain
+katG_p.Gly234Glu	0.000493								Uncertain
+katG_p.Trp91Arg	0.000247								Uncertain
+katG_p.Thr394Ala	0.00024								Uncertain
+katG_p.Ser140Asn	0.000133								Uncertain
+katG_p.Thr308Pro	0.000108								Mutation_from_literature
+inhA_p.Ile194Thr	0.000101								Uncertain
+katG_p.Trp191Arg	0.000025								Uncertain
+rpoB_p.Ser450Leu		0.535573							AssocwR
+rpoB_p.His445Tyr		0.076158							AssocwR
+rpoB_p.Leu452Pro		0.056651							AssocwR
+rpoB_p.His445Asp		0.048913							AssocwR
+rpoB_p.Asp435Val		0.040558							AssocwR
+rpoB_p.Leu430Pro		0.039902							AssocwR
+rpoB_p.His445Arg		0.028735							AssocwR
+rpoB_p.Asp435Tyr		0.026439							AssocwR
+rpoB_p.His445Leu		0.026072							AssocwR
+rpoB_p.Ser450Trp		0.021452							AssocwR
+rpoB_p.His445Asn		0.020772							AssocwR
+rpoB_p.Ser441Leu		0.015513							AssocwR
+rpoB_p.Val170Phe		0.01548							AssocwR
+rpoB_p.Ile491Phe		0.011507							AssocwR
+rpoB_p.Ser450Phe		0.00744							AssocwR
+rpoB_p.His445Ser		0.007375							AssocwR
+rpoB_p.His445Cys		0.005082							AssocwR
+rpoB_p.Asp435Gly		0.003144							AssocwR
+rpoB_p.His445Gln		0.002872							AssocwR
+rpoB_p.His445Gly		0.002552							AssocwR
+rpoB_p.Gln432Pro		0.002494							AssocwR
+rpoB_p.Asn438del		0.002436							AssocwR
+rpoB_p.Leu430Arg		0.00105							AssocwR
+rpoB_p.Met434Val		0.000646							AssocwR
+rpoB_p.Ala451Val		0.000342							AssocwR
+rpoB_p.Thr427Ala		0.000303							AssocwR
+rpoB_p.Asn437Asp		0.000291							AssocwR
+rpoB_p.Asp435Ala		0.00025							AssocwR
+embB_p.Met306Val			0.458365						AssocwR
+embB_p.Met306Ile			0.193415						AssocwR
+embB_p.Gln497Arg			0.092067						AssocwR
+embB_p.Gly406Ala			0.055352						AssocwR
+embB_p.Gly406Asp			0.040792						AssocwR
+embB_p.Tyr319Ser			0.033634						AssocwR
+embB_p.Gly406Ser			0.030341						AssocwR
+embB_p.Asp354Ala			0.022587						AssocwR
+embA_c.-12C>T			0.021859						AssocwR
+embB_p.Asp328Tyr			0.021057						AssocwR
+embB_p.Gln497Lys			0.015605						AssocwR
+embB_p.Gly406Cys			0.007573						AssocwR
+embB_p.Tyr319Cys			0.005173						AssocwR
+embB_p.Met306Leu			0.002178						AssocwR
+ethA_frameshift_variant				0.059915					AssocwR
+ethA_stop_gained				0.017408					AssocwR
+gyrA_p.Ala90Val						0.843297	0.802139		AssocwR
+gyrA_p.Ser91Pro						0.156703	0.197861		AssocwR
+rrs_n.1401A>G					0.920944			0.761235	AssocwR
+eis_c.-10G>A								0.108873	AssocwR
+eis_c.-14C>T								0.065398	AssocwR
+rrs_n.1484G>T					0.079056			0.064494	AssocwR

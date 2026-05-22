@@ -1,0 +1,13 @@
+#'moxifloxacin', 'ofloxacin', 'levofloxacin', 'ciprofloxacin'合并为fluoroquinolones统计
+#Total: 去重后所有突变数量
+#Local: 去重后date_world==date_country的突变数量
+#tFirstline: Local内属于一线药物的突变数量
+#Firstline(>1): 突变数目大于1的一线药物的突变数量
+#Secondline(>1): 突变数目大于1的一线药物的突变数量 
+Firstline_ratio(>1) : Firstline(>1)/( Firstline(>1) + Secondline(>1) ) * 100
+Country	Total	Local	Firstline	Firstline(>1)	Secondline	Secondline(>1)	Firstline_ratio(>1)	tSecondline_ratio(>1)
+Australia	57	44	30	30	14	13	69.77	30.23
+China	149	136	93	93	43	42	68.89	31.11
+India	134	92	49	48	43	41	53.93	46.07
+Moldova	101	84	54	52	30	27	65.82	34.18
+USA	32	28	21	21	7	7	75.0	25.0

@@ -1,0 +1,172 @@
+Drug	Variant	Pro_change	GenomeVar	Pos	VarType	Confidence	Freq	Total	Ratio	Date_World	Date_China	format_Var
+bedaquiline	mmpR5_p.Ser68Gly	mmpR5_p.Ser68Gly		779191	missense_variant	Uncertain significance	2	3	66.7%	2016	2016	mmpR5_p.Ser68Gly
+capreomycin	tlyA_p.Gln22*	tlyA_p.Gln22*		1918003	stop_gained	Assoc w R - interim	1	1	100.0%	2019	2019	tlyA_stop_gained
+capreomycin	tlyA_p.Glu238Lys	tlyA_p.Glu238Lys		1918651	missense_variant	Uncertain significance	1	1	100.0%	2020	2020	tlyA_p.Glu238Lys
+capreomycin	tlyA_c.396dupG	tlyA_p.Arg133fs		1918334	frameshift_variant	Assoc w R - interim	1	1	100.0%	2019	2019	tlyA_frameshift_variant
+capreomycin	tlyA_c.375dupT	tlyA_p.Pro126fs		1918313	frameshift_variant	Assoc w R	1	1	100.0%	2019	2019	tlyA_frameshift_variant
+capreomycin	tlyA_p.Leu118Pro	tlyA_p.Leu118Pro		1918292	missense_variant	Mutation_from_literature	1	1	100.0%	2019	2019	tlyA_p.Leu118Pro
+ciprofloxacin	gyrA_p.His70Arg	gyrA_p.His70Arg		7510	missense_variant	Uncertain significance	2	6	33.3%	2015	2018	gyrA_p.His70Arg
+ciprofloxacin	gyrB_p.Ala504Thr	gyrB_p.Ala504Thr		6749	missense_variant	Uncertain significance	2	3	66.7%	2018	2018	gyrB_p.Ala504Thr
+ciprofloxacin	gyrB_p.Thr500Ile	gyrB_p.Thr500Ile		6738	missense_variant	Uncertain significance	1	3	33.3%	2017	2018	gyrB_p.Thr500Ile
+ciprofloxacin	gyrB_p.Asp461His	gyrB_p.Asp461His		6620	missense_variant	Assoc w R - Interim	1	3	33.3%	2019	2020	gyrB_p.Asp461His
+ciprofloxacin	gyrA_p.Asp94Val	gyrA_p.Asp94Val		7582	missense_variant	Uncertain significance	1	1	100.0%	2018	2018	gyrA_p.Asp94Val
+clofazimine	mmpR5_p.Ser68Gly	mmpR5_p.Ser68Gly		779191	missense_variant	Uncertain significance	2	3	66.7%	2016	2016	mmpR5_p.Ser68Gly
+ethambutol	embB_p.Ala356Val	embB_p.Ala356Val		4247580	missense_variant	Uncertain significance	1	4	25.0%	2016	2016	embB_p.Ala356Val
+ethambutol	embB_p.Met1000Arg	embB_p.Met1000Arg		4249512	missense_variant	Uncertain significance	3	4	75.0%	2016	2016	embB_p.Met1000Arg
+ethambutol	embB_p.Tyr319Asn	embB_p.Tyr319Asn		4247468	missense_variant	Uncertain significance	2	2	100.0%	2017	2017	embB_p.Tyr319Asn
+ethambutol	embB_p.Ala357Ser	embB_p.Ala357Ser		4247582	missense_variant	Mutation_from_literature	1	1	100.0%	2018	2018	embB_p.Ala357Ser
+ethambutol	embB_p.Ser380Asn	embB_p.Ser380Asn		4247652	missense_variant	Mutation_from_literature	1	1	100.0%	2016	2016	embB_p.Ser380Asn
+ethambutol	embR_p.Thr32Pro	embR_p.Thr32Pro		1417254	missense_variant	Mutation_from_literature	1	1	100.0%	2015	2015	embR_p.Thr32Pro
+ethambutol	embB_p.Ser347Thr	embB_p.Ser347Thr		4247553	missense_variant	Uncertain significance	1	1	100.0%	2020	2020	embB_p.Ser347Thr
+ethionamide	ethA_p.Trp240*	ethA_p.Trp240*		4326754	stop_gained	Assoc w R - interim	1	5	20.0%	2018	2018	ethA_stop_gained
+ethionamide	ethA_c.1047dupT	ethA_p.Gly350fs		4326426	frameshift_variant	Assoc w R - interim	1	5	20.0%	2015	2016	ethA_frameshift_variant
+ethionamide	ethA_p.Thr88Ile	ethA_p.Thr88Ile		4327211	missense_variant	Assoc w R - interim	1	3	33.3%	2018	2018	ethA_p.Thr88Ile
+ethionamide	ethA_c.130dupA	ethA_p.Thr44fs		4327343	frameshift_variant	Assoc w R - interim	2	2	100.0%	2017	2017	ethA_frameshift_variant
+ethionamide	ethA_c.677delA	ethA_p.Asn226fs		4326796	frameshift_variant	Assoc w R	2	2	100.0%	2015	2015	ethA_frameshift_variant
+ethionamide	ethA_c.1341delC	ethA_p.Lys448fs		4326132	frameshift_variant	Assoc w R - interim	1	2	50.0%	2017	2017	ethA_frameshift_variant
+ethionamide	ethA_c.1299_1300dupGT	ethA_p.Phe434fs		4326173	frameshift_variant	Assoc w R	1	1	100.0%	2019	2019	ethA_frameshift_variant
+ethionamide	ethA_c.-1582_*32del	ethA_c.-1582_*32del		4325971	transcript_ablation	Assoc w R	1	1	100.0%	2018	2018	ethA_transcript_ablation
+ethionamide	ethA_c.-2016_94del	ethA_c.-2016_94del		4327379	frameshift_variant&start_lost	Assoc w R	1	1	100.0%	2018	2018	ethA_start_lost
+ethionamide	ethA_p.Thr186Lys	ethA_p.Thr186Lys		4326917	missense_variant	Mutation_from_literature	1	1	100.0%	2018	2018	ethA_p.Thr186Lys
+ethionamide	ethA_c.-249_*1026del	ethA_c.-249_*1026del		4324977	transcript_ablation	Assoc w R	1	1	100.0%	2018	2018	ethA_transcript_ablation
+ethionamide	ethA_c.1144delT	ethA_p.Tyr382fs		4326329	frameshift_variant	Assoc w R	1	1	100.0%	2018	2018	ethA_frameshift_variant
+ethionamide	ethA_c.1465dupG	ethA_p.Val489fs		4326008	frameshift_variant	Assoc w R - interim	1	1	100.0%	2018	2018	ethA_frameshift_variant
+ethionamide	ethA_c.375_376dupGC	ethA_p.Leu126fs		4327097	frameshift_variant	Assoc w R	1	1	100.0%	2020	2020	ethA_frameshift_variant
+ethionamide	ethA_c.8_1394del	ethA_c.8_1394del		4326079	frameshift_variant	Assoc w R	1	1	100.0%	2017	2017	ethA_frameshift_variant
+ethionamide	ethA_c.710_782delCGGTACGGTGGAAGAACGTGCTGCGCCAGGCGGCCGTGTACAGCGCCTGCCAGAAGTGGCCACGGCGCATGCG	ethA_c.710_782delCGGTACGGTGGAAGAACGTGCTGCGCCAGGCGGCCGTGTACAGCGCCTGCCAGAAGTGGCCACGGCGCATGCG		4326691	frameshift_variant	Assoc w R	1	1	100.0%	2015	2015	ethA_frameshift_variant
+ethionamide	ethA_c.742dupG	ethA_p.Ala248fs		4326731	frameshift_variant	Assoc w R - interim	1	1	100.0%	2016	2016	ethA_frameshift_variant
+ethionamide	ethA_c.955delC	ethA_p.Arg319fs		4326518	frameshift_variant	Assoc w R	1	1	100.0%	2016	2016	ethA_frameshift_variant
+ethionamide	ethA_c.-345_1288del	ethA_c.-345_1288del		4326185	frameshift_variant&start_lost	Assoc w R	1	1	100.0%	2018	2018	ethA_start_lost
+ethionamide	ethA_c.312dupG	ethA_p.Ile105fs		4327161	frameshift_variant	Assoc w R	1	1	100.0%	2016	2016	ethA_frameshift_variant
+ethionamide	ethA_p.Gln24*	ethA_p.Gln24*		4327404	stop_gained	Assoc w R - interim	1	1	100.0%	2015	2015	ethA_stop_gained
+ethionamide	ethA_c.869_*1039del	ethA_c.869_*1039del		4324964	frameshift_variant&stop_lost&splice_region_variant	Assoc w R	1	1	100.0%	2019	2019	ethA_stop_lost
+ethionamide	ethA_c.938dupT	ethA_p.Thr314fs		4326535	frameshift_variant	Assoc w R - interim	1	1	100.0%	2017	2017	ethA_frameshift_variant
+ethionamide	ethA_c.-123_*514del	ethA_c.-123_*514del		4325489	transcript_ablation	Assoc w R	1	1	100.0%	2016	2016	ethA_transcript_ablation
+ethionamide	ethA_c.-323_265del	ethA_c.-323_265del		4327208	frameshift_variant&start_lost	Assoc w R	1	1	100.0%	2019	2019	ethA_start_lost
+ethionamide	ethA_c.1302dupC	ethA_p.Thr435fs		4326171	frameshift_variant	Assoc w R	1	1	100.0%	2017	2017	ethA_frameshift_variant
+fluoroquinolones	gyrA_p.His70Arg	gyrA_p.His70Arg		7510	missense_variant	Uncertain significance	2	6	33.3%	2015	2018	gyrA_p.His70Arg
+fluoroquinolones	gyrB_p.Ala504Thr	gyrB_p.Ala504Thr		6749	missense_variant	Uncertain significance	2	3	66.7%	2018	2018	gyrB_p.Ala504Thr
+fluoroquinolones	gyrB_p.Asp461His	gyrB_p.Asp461His		6620	missense_variant	Assoc w R - Interim	1	3	33.3%	2019	2020	gyrB_p.Asp461His
+fluoroquinolones	gyrB_p.Thr500Ile	gyrB_p.Thr500Ile		6738	missense_variant	Uncertain significance	1	3	33.3%	2017	2018	gyrB_p.Thr500Ile
+fluoroquinolones	gyrA_p.Asp94Val	gyrA_p.Asp94Val		7582	missense_variant	Uncertain significance	1	1	100.0%	2018	2018	gyrA_p.Asp94Val
+isoniazid	katG_p.Ala106Val	katG_p.Ala106Val		2155795	missense_variant	Uncertain significance	1	13	7.7%	2016	2016	katG_p.Ala106Val
+isoniazid	katG_p.Arg249Cys	katG_p.Arg249Cys		2155367	missense_variant	Uncertain significance	7	7	100.0%	2017	2017	katG_p.Arg249Cys
+isoniazid	katG_p.Thr394Ala	katG_p.Thr394Ala		2154932	missense_variant	Uncertain significance	1	5	20.0%	2016	2018	katG_p.Thr394Ala
+isoniazid	katG_p.Ala110Val	katG_p.Ala110Val		2155783	missense_variant	Uncertain significance	3	4	75.0%	2015	2015	katG_p.Ala110Val
+isoniazid	katG_p.Thr275Ser	katG_p.Thr275Ser		2155289	missense_variant	Mutation_from_literature	1	4	25.0%	2016	2019	katG_p.Thr275Ser
+isoniazid	katG_p.Ser315Arg	katG_p.Ser315Arg		2155167	missense_variant	Uncertain significance	1	4	25.0%	2015	2015	katG_p.Ser315Arg
+isoniazid	katG_p.Asn238Lys	katG_p.Asn238Lys		2155398	missense_variant	Mutation_from_literature	2	3	66.7%	2015	2015	katG_p.Asn238Lys
+isoniazid	katG_p.Gly285Asp	katG_p.Gly285Asp		2155258	missense_variant	Uncertain significance	3	3	100.0%	2015	2015	katG_p.Gly285Asp
+isoniazid	katG_c.-7G>A	katG_c.-7G>A	n.2156118C>T	2156118	upstream_gene_variant	Uncertain significance	2	3	66.7%	2015	2015	n.2156118C>T
+isoniazid	katG_p.Asn138Ser	katG_p.Asn138Ser		2155699	missense_variant	Uncertain significance	1	3	33.3%	2015	2015	katG_p.Asn138Ser
+isoniazid	katG_c.-12G>A	katG_c.-12G>A	n.2156123C>T	2156123	upstream_gene_variant	Mutation_from_literature	2	2	100.0%	2017	2017	n.2156123C>T
+isoniazid	katG_p.Ala172Thr	katG_p.Ala172Thr		2155598	missense_variant	Uncertain significance	2	2	100.0%	2017	2017	katG_p.Ala172Thr
+isoniazid	katG_p.Trp300Gly	katG_p.Trp300Gly		2155214	missense_variant	Uncertain significance	1	2	50.0%	2015	2015	katG_p.Trp300Gly
+isoniazid	katG_p.Tyr337Cys	katG_p.Tyr337Cys		2155102	missense_variant	Uncertain significance	1	2	50.0%	2016	2016	katG_p.Tyr337Cys
+isoniazid	katG_c.1947delC	katG_p.Ser650fs		2154164	frameshift_variant	Assoc w R	1	1	100.0%	2019	2019	katG_frameshift_variant
+isoniazid	katG_p.Thr308Pro	katG_p.Thr308Pro		2155190	missense_variant	Mutation_from_literature	1	1	100.0%	2017	2017	katG_p.Thr308Pro
+isoniazid	katG_c.2007_*651del	katG_c.2007_*651del		2153237	frameshift_variant&stop_lost&splice_region_variant	Assoc w R	1	1	100.0%	2018	2018	katG_stop_lost
+isoniazid	katG_c.943delA	katG_p.Ser315fs		2155168	frameshift_variant	Assoc w R	1	1	100.0%	2016	2016	katG_frameshift_variant
+isoniazid	katG_c.-5562_818del	katG_c.-5562_818del		2155293	frameshift_variant	Assoc w R	1	1	100.0%	2015	2015	katG_frameshift_variant
+isoniazid	katG_c.-5026_164del	katG_c.-5026_164del		2155947	frameshift_variant	Assoc w R	1	1	100.0%	2015	2015	katG_frameshift_variant
+isoniazid	katG_p.Gly491Cys	katG_p.Gly491Cys		2154641	missense_variant	Mutation_from_literature	1	1	100.0%	2019	2019	katG_p.Gly491Cys
+isoniazid	katG_c.-1873_*4371del	katG_c.-1873_*4371del		2149517	transcript_ablation	Assoc w R	1	1	100.0%	2017	2017	katG_transcript_ablation
+isoniazid	katG_c.1203dupC	katG_p.Glu402fs		2154908	frameshift_variant	Assoc w R	1	1	100.0%	2019	2019	katG_frameshift_variant
+isoniazid	katG_p.Ala109Val	katG_p.Ala109Val		2155786	missense_variant	Uncertain significance	1	1	100.0%	2021	2021	katG_p.Ala109Val
+isoniazid	katG_c.1811_1816delTGCCGGinsA	katG_p.Leu604fs		2154296	frameshift_variant&missense_variant	Assoc w R	1	1	100.0%	2018	2018	katG_frameshift_variant
+isoniazid	katG_p.Gly593Asp	katG_p.Gly593Asp		2154334	missense_variant	Uncertain significance	1	1	100.0%	2019	2019	katG_p.Gly593Asp
+isoniazid	katG_c.2140delG	katG_p.Asp714fs		2153971	frameshift_variant	Assoc w R	1	1	100.0%	2018	2018	katG_frameshift_variant
+isoniazid	katG_p.Val1Leu	katG_p.Val1Leu		2156111	missense_variant	Mutation_from_literature	1	1	100.0%	2015	2015	katG_p.Val1Leu
+isoniazid	katG_c.2219_2220dupGC	katG_p.Ter741fs		2153891	frameshift_variant	Assoc w R	1	1	100.0%	2015	2015	katG_frameshift_variant
+isoniazid	katG_c.1842_*1209del	katG_c.1842_*1209del		2152679	frameshift_variant&stop_lost&splice_region_variant	Assoc w R	1	1	100.0%	2017	2017	katG_stop_lost
+isoniazid	katG_c.575_576delAG	katG_p.Glu192fs		2155535	frameshift_variant	Assoc w R	1	1	100.0%	2018	2018	katG_frameshift_variant
+levofloxacin	gyrA_p.His70Arg	gyrA_p.His70Arg		7510	missense_variant	Uncertain significance	2	6	33.3%	2015	2018	gyrA_p.His70Arg
+levofloxacin	gyrB_p.Ala504Thr	gyrB_p.Ala504Thr		6749	missense_variant	Uncertain significance	2	3	66.7%	2018	2018	gyrB_p.Ala504Thr
+levofloxacin	gyrB_p.Thr500Ile	gyrB_p.Thr500Ile		6738	missense_variant	Uncertain significance	1	3	33.3%	2017	2018	gyrB_p.Thr500Ile
+levofloxacin	gyrB_p.Asp461His	gyrB_p.Asp461His		6620	missense_variant	Uncertain significance	1	3	33.3%	2019	2020	gyrB_p.Asp461His
+levofloxacin	gyrA_p.Asp94Val	gyrA_p.Asp94Val		7582	missense_variant	Uncertain significance	1	1	100.0%	2018	2018	gyrA_p.Asp94Val
+moxifloxacin	gyrA_p.His70Arg	gyrA_p.His70Arg		7510	missense_variant	Uncertain significance	2	6	33.3%	2015	2018	gyrA_p.His70Arg
+moxifloxacin	gyrB_p.Thr500Ile	gyrB_p.Thr500Ile		6738	missense_variant	Uncertain significance	1	3	33.3%	2017	2018	gyrB_p.Thr500Ile
+moxifloxacin	gyrB_p.Asp461His	gyrB_p.Asp461His		6620	missense_variant	Uncertain significance	1	3	33.3%	2019	2020	gyrB_p.Asp461His
+moxifloxacin	gyrB_p.Ala504Thr	gyrB_p.Ala504Thr		6749	missense_variant	Uncertain significance	2	3	66.7%	2018	2018	gyrB_p.Ala504Thr
+moxifloxacin	gyrA_p.Asp94Val	gyrA_p.Asp94Val		7582	missense_variant	Uncertain significance	1	1	100.0%	2018	2018	gyrA_p.Asp94Val
+ofloxacin	gyrA_p.His70Arg	gyrA_p.His70Arg		7510	missense_variant	Uncertain significance	2	6	33.3%	2015	2018	gyrA_p.His70Arg
+ofloxacin	gyrB_p.Thr500Ile	gyrB_p.Thr500Ile		6738	missense_variant	Uncertain significance	1	3	33.3%	2017	2018	gyrB_p.Thr500Ile
+ofloxacin	gyrB_p.Asp461His	gyrB_p.Asp461His		6620	missense_variant	Assoc w R - Interim	1	3	33.3%	2019	2020	gyrB_p.Asp461His
+ofloxacin	gyrB_p.Ala504Thr	gyrB_p.Ala504Thr		6749	missense_variant	Uncertain significance	2	3	66.7%	2018	2018	gyrB_p.Ala504Thr
+ofloxacin	gyrA_p.Asp94Val	gyrA_p.Asp94Val		7582	missense_variant	Uncertain significance	1	1	100.0%	2018	2018	gyrA_p.Asp94Val
+para-aminosalicylic_acid	folC_p.Glu153Ala	folC_p.Glu153Ala		2747141	missense_variant	Mutation_from_literature	2	6	33.3%	2016	2016	folC_p.Glu153Ala
+para-aminosalicylic_acid	folC_p.Thr20Pro	folC_p.Thr20Pro		2747541	missense_variant	Mutation_from_literature	1	3	33.3%	2015	2015	folC_p.Thr20Pro
+para-aminosalicylic_acid	thyA_p.Trp83Cys	thyA_p.Trp83Cys		3074223	missense_variant	Mutation_from_literature	2	2	100.0%	2020	2020	thyA_p.Trp83Cys
+para-aminosalicylic_acid	thyA_c.-1087_*2632del	thyA_c.-1087_*2632del		3071047	transcript_ablation	Assoc w R	1	1	100.0%	2017	2017	thyA_transcript_ablation
+para-aminosalicylic_acid	folC_p.Ala183Pro	folC_p.Ala183Pro		2747052	missense_variant	Mutation_from_literature	1	1	100.0%	2016	2016	folC_p.Ala183Pro
+para-aminosalicylic_acid	thyA_c.-4494_*2493del	thyA_c.-4494_*2493del		3071186	transcript_ablation	Assoc w R	1	1	100.0%	2015	2015	thyA_transcript_ablation
+para-aminosalicylic_acid	folC_p.Arg49Trp	folC_p.Arg49Trp		2747454	missense_variant	Mutation_from_literature	1	1	100.0%	2017	2017	folC_p.Arg49Trp
+para-aminosalicylic_acid	thyA_c.-6725_*1073del	thyA_c.-6725_*1073del		3072606	transcript_ablation	Assoc w R	1	1	100.0%	2015	2015	thyA_transcript_ablation
+para-aminosalicylic_acid	thyA_c.-4296_*1829del	thyA_c.-4296_*1829del		3071850	transcript_ablation	Assoc w R	1	1	100.0%	2017	2017	thyA_transcript_ablation
+para-aminosalicylic_acid	thyA_c.-6728_*1081del	thyA_c.-6728_*1081del		3072598	transcript_ablation	Assoc w R	1	1	100.0%	2019	2019	thyA_transcript_ablation
+pyrazinamide	pncA_p.Lys96Thr	pncA_p.Lys96Thr		2288955	missense_variant	Assoc w R	2	10	20.0%	2016	2016	pncA_p.Lys96Thr
+pyrazinamide	pncA_p.His137Arg	pncA_p.His137Arg		2288832	missense_variant	Uncertain significance	1	7	14.3%	2018	2019	pncA_p.His137Arg
+pyrazinamide	pncA_p.Ile133Thr	pncA_p.Ile133Thr		2288844	missense_variant	Assoc w R	3	6	50.0%	2015	2015	pncA_p.Ile133Thr
+pyrazinamide	pncA_p.Val7Ala	pncA_p.Val7Ala		2289222	missense_variant	Assoc w R	2	6	33.3%	2015	2018	pncA_p.Val7Ala
+pyrazinamide	pncA_p.Val128Gly	pncA_p.Val128Gly		2288859	missense_variant	Assoc w R	1	5	20.0%	2016	2018	pncA_p.Val128Gly
+pyrazinamide	pncA_p.Leu156Pro	pncA_p.Leu156Pro		2288775	missense_variant	Uncertain significance	1	5	20.0%	2017	2017	pncA_p.Leu156Pro
+pyrazinamide	pncA_p.Phe58Leu	pncA_p.Phe58Leu		2289068	missense_variant	Assoc w R	1	5	20.0%	2017	2017	pncA_p.Phe58Leu
+pyrazinamide	pncA_p.Lys96Arg	pncA_p.Lys96Arg		2288955	missense_variant	Assoc w R	3	4	75.0%	2015	2015	pncA_p.Lys96Arg
+pyrazinamide	pncA_c.531_*6763del	pncA_c.531_*6763del		2281917	frameshift_variant&stop_lost&splice_region_variant	Assoc w R	4	4	100.0%	2018	2018	pncA_stop_lost
+pyrazinamide	pncA_p.Trp119Cys	pncA_p.Trp119Cys		2288885	missense_variant	Assoc w R	1	3	33.3%	2018	2018	pncA_p.Trp119Cys
+pyrazinamide	pncA_c.291_292dupTG	pncA_p.Ala98fs		2288949	frameshift_variant	Assoc w R	3	3	100.0%	2016	2016	pncA_frameshift_variant
+pyrazinamide	pncA_p.Val130Gly	pncA_p.Val130Gly		2288853	missense_variant	Assoc w R	1	3	33.3%	2016	2016	pncA_p.Val130Gly
+pyrazinamide	pncA_c.192_193insA	pncA_p.Ser65fs		2289049	frameshift_variant	Assoc w R - interim	1	2	50.0%	2016	2016	pncA_frameshift_variant
+pyrazinamide	pncA_c.204_225delGCCACCGCATTGCGTCAGCGGT	pncA_p.Trp68fs		2289016	frameshift_variant	Assoc w R	2	2	100.0%	2018	2018	pncA_frameshift_variant
+pyrazinamide	pncA_p.Asp49His	pncA_p.Asp49His		2289097	missense_variant	Mutation_from_literature	2	2	100.0%	2015	2015	pncA_p.Asp49His
+pyrazinamide	pncA_p.Thr61Pro	pncA_p.Thr61Pro		2289061	missense_variant	Uncertain significance	1	2	50.0%	2016	2018	pncA_p.Thr61Pro
+pyrazinamide	pncA_c.501dupC	pncA_p.Thr168fs		2288740	frameshift_variant	Assoc w R	2	2	100.0%	2016	2016	pncA_frameshift_variant
+pyrazinamide	pncA_c.182_191delCACCGGACTA	pncA_p.Thr61fs		2289050	frameshift_variant	Assoc w R - interim	1	2	50.0%	2017	2017	pncA_frameshift_variant
+pyrazinamide	pncA_p.Val155Ala	pncA_p.Val155Ala		2288778	missense_variant	Uncertain significance	2	2	100.0%	2018	2018	pncA_p.Val155Ala
+pyrazinamide	pncA_c.472dupG	pncA_p.Asp158fs		2288769	frameshift_variant	Assoc w R - interim	1	2	50.0%	2020	2020	pncA_frameshift_variant
+pyrazinamide	pncA_p.Trp119Ser	pncA_p.Trp119Ser		2288886	missense_variant	Mutation_from_literature	2	2	100.0%	2016	2016	pncA_p.Trp119Ser
+pyrazinamide	pncA_c.51delC	pncA_p.Ser18fs		2289190	frameshift_variant	Assoc w R	2	2	100.0%	2016	2016	pncA_frameshift_variant
+pyrazinamide	pncA_c.539_*18delTCGAGTTGGTTTGCAGCTCCTGATGGCACCGCCGAACCGGG	pncA_p.Val180fs		2288662	frameshift_variant&stop_lost&splice_region_variant	Assoc w R	1	1	100.0%	2018	2018	pncA_stop_lost
+pyrazinamide	rpsA_p.Arg474Trp	rpsA_p.Arg474Trp		1834961	missense_variant	Mutation_from_literature	1	1	100.0%	2017	2017	rpsA_p.Arg474Trp
+pyrazinamide	pncA_c.29delA	pncA_p.Gln10fs		2289212	frameshift_variant	Assoc w R	1	1	100.0%	2020	2020	pncA_frameshift_variant
+pyrazinamide	pncA_c.-1077_*1549del	pncA_c.-1077_*1549del		2287131	transcript_ablation	Assoc w R	1	1	100.0%	2017	2017	pncA_transcript_ablation
+pyrazinamide	pncA_c.230_231insA	pncA_p.Gly78fs		2289011	frameshift_variant	Assoc w R	1	1	100.0%	2017	2017	pncA_frameshift_variant
+pyrazinamide	pncA_c.-1255_322del	pncA_c.-1255_322del		2288919	frameshift_variant&start_lost	Assoc w R	1	1	100.0%	2019	2019	pncA_start_lost
+pyrazinamide	pncA_c.249delC	pncA_p.Ser84fs		2288992	frameshift_variant	Assoc w R - interim	1	1	100.0%	2021	2021	pncA_frameshift_variant
+pyrazinamide	pncA_c.255_256dupGG	pncA_p.Asp86fs		2288985	frameshift_variant	Assoc w R	1	1	100.0%	2016	2016	pncA_frameshift_variant
+pyrazinamide	pncA_c.342_*290del	pncA_c.342_*290del		2288390	frameshift_variant&stop_lost&splice_region_variant	Assoc w R	1	1	100.0%	2018	2018	pncA_stop_lost
+pyrazinamide	pncA_c.395delG	pncA_p.Gly132fs		2288846	frameshift_variant	Assoc w R	1	1	100.0%	2017	2017	pncA_frameshift_variant
+pyrazinamide	pncA_c.449_450dupGC	pncA_p.Leu151fs		2288791	frameshift_variant	Assoc w R	1	1	100.0%	2017	2017	pncA_frameshift_variant
+pyrazinamide	pncA_p.Gly132Val	pncA_p.Gly132Val		2288847	missense_variant	Mutation_from_literature	1	1	100.0%	2019	2019	pncA_p.Gly132Val
+pyrazinamide	pncA_p.Ala171Thr	pncA_p.Ala171Thr		2288731	missense_variant	Uncertain significance	1	1	100.0%	2016	2016	pncA_p.Ala171Thr
+pyrazinamide	pncA_c.150_*606del	pncA_c.150_*606del		2288074	frameshift_variant&stop_lost&splice_region_variant	Assoc w R	1	1	100.0%	2019	2019	pncA_stop_lost
+pyrazinamide	pncA_c.-2211_47del	pncA_c.-2211_47del		2289194	frameshift_variant&start_lost	Assoc w R	1	1	100.0%	2016	2016	pncA_start_lost
+pyrazinamide	pncA_c.186_187dupGG	pncA_p.Asp63fs		2289054	frameshift_variant	Assoc w R	1	1	100.0%	2018	2018	pncA_frameshift_variant
+pyrazinamide	pncA_c.399_400dupTG	pncA_p.Ala134fs		2288841	frameshift_variant	Assoc w R	1	1	100.0%	2017	2017	pncA_frameshift_variant
+pyrazinamide	pncA_p.Thr168Pro	pncA_p.Thr168Pro		2288740	missense_variant	Assoc w R - interim	1	1	100.0%	2019	2019	pncA_p.Thr168Pro
+pyrazinamide	pncA_c.53dupC	pncA_p.Leu19fs		2289188	frameshift_variant	Assoc w R	1	1	100.0%	2018	2018	pncA_frameshift_variant
+pyrazinamide	pncA_c.519_520dupGG	pncA_p.Glu174fs		2288721	frameshift_variant	Assoc w R	1	1	100.0%	2016	2016	pncA_frameshift_variant
+pyrazinamide	pncA_c.-186_332del	pncA_c.-186_332del		2288909	frameshift_variant&start_lost	Assoc w R	1	1	100.0%	2017	2017	pncA_start_lost
+pyrazinamide	pncA_c.336_337dupCG	pncA_p.Gly113fs		2288904	frameshift_variant	Assoc w R	1	1	100.0%	2016	2016	pncA_frameshift_variant
+pyrazinamide	pncA_c.402dupC	pncA_p.Thr135fs		2288839	frameshift_variant	Assoc w R	1	1	100.0%	2017	2017	pncA_frameshift_variant
+pyrazinamide	pncA_c.225_226dupTA	pncA_p.Thr76fs		2289015	frameshift_variant	Assoc w R	1	1	100.0%	2017	2017	pncA_frameshift_variant
+pyrazinamide	pncA_p.Glu15*	pncA_p.Glu15*		2289199	stop_gained	Assoc w R - interim	1	1	100.0%	2018	2018	pncA_stop_gained
+pyrazinamide	pncA_c.-1618_*7095del	pncA_c.-1618_*7095del		2281585	transcript_ablation	Assoc w R	1	1	100.0%	2019	2019	pncA_transcript_ablation
+pyrazinamide	pncA_c.189_*10318del	pncA_c.189_*10318del		2278362	frameshift_variant&stop_lost&splice_region_variant	Assoc w R	1	1	100.0%	2015	2015	pncA_stop_lost
+pyrazinamide	pncA_c.231delC	pncA_p.Gly78fs		2289010	frameshift_variant	Assoc w R - interim	1	1	100.0%	2016	2016	pncA_frameshift_variant
+pyrazinamide	pncA_c.242dupT	pncA_p.His82fs		2288999	frameshift_variant	Assoc w R	1	1	100.0%	2016	2016	pncA_frameshift_variant
+pyrazinamide	pncA_c.161dupC	pncA_p.Asp56fs		2289080	frameshift_variant	Assoc w R - interim	1	1	100.0%	2019	2019	pncA_frameshift_variant
+pyrazinamide	pncA_c.-320_163del	pncA_c.-320_163del		2289078	frameshift_variant&start_lost	Assoc w R	1	1	100.0%	2019	2019	pncA_start_lost
+rifampicin	rpoB_p.Gln432Glu	rpoB_p.Gln432Glu		761100	missense_variant	Assoc w R - interim	1	4	25.0%	2017	2019	rpoB_p.Gln432Glu
+rifampicin	rpoB_p.Pro483Leu	rpoB_p.Pro483Leu		761254	missense_variant	Uncertain significance	4	4	100.0%	2015	2015	rpoB_p.Pro483Leu
+rifampicin	rpoB_p.Thr427Ala	rpoB_p.Thr427Ala		761085	missense_variant	Assoc w R - interim	3	4	75.0%	2016	2016	rpoB_p.Thr427Ala
+rifampicin	rpoB_c.1279_1284delACCAGC	rpoB_p.Thr427_Ser428del		761082	conservative_inframe_deletion	Assoc w R - interim	1	3	33.3%	2015	2019	rpoB_p.Thr427_Ser428del
+rifampicin	rpoB_p.Asn437Asp	rpoB_p.Asn437Asp		761115	missense_variant	Assoc w R - interim	2	3	66.7%	2016	2016	rpoB_p.Asn437Asp
+rifampicin	rpoB_p.His445Gly	rpoB_p.His445Gly		761139	missense_variant	Assoc w R - interim	1	3	33.3%	2017	2018	rpoB_p.His445Gly
+rifampicin	rpoB_p.Leu430Arg	rpoB_p.Leu430Arg		761095	missense_variant	Assoc w R - interim	2	2	100.0%	2017	2017	rpoB_p.Leu430Arg
+rifampicin	rpoB_p.Ile480Thr	rpoB_p.Ile480Thr		761245	missense_variant	Uncertain significance	1	1	100.0%	2019	2019	rpoB_p.Ile480Thr
+rifampicin	rpoB_c.1305_1307delCCA	rpoB_p.Asp435_Gln436delinsGlu		761109	disruptive_inframe_deletion	Assoc w R - interim	1	1	100.0%	2018	2018	rpoB_p.Asp435_Gln436delinsGlu
+streptomycin	gid_c.326delG	gid_p.Gly109fs		4407876	frameshift_variant	Assoc w R - interim	4	4	100.0%	2017	2017	gid_frameshift_variant
+streptomycin	gid_p.Trp148*	gid_p.Trp148*		4407760	stop_gained	Assoc w R - interim	1	2	50.0%	2018	2018	gid_stop_gained
+streptomycin	rpsL_p.Lys43Thr	rpsL_p.Lys43Thr		781687	missense_variant	Uncertain significance	2	2	100.0%	2017	2017	rpsL_p.Lys43Thr

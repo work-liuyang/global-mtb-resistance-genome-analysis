@@ -1,0 +1,37 @@
+country	proportion	latest	mean	median	Income_Group
+Botswana	0	7738.88	4860.11	5142.91	Upper middle income
+Ivory_Coast	0	2486.41	1500.06	1303.56	Lower middle income
+Congo_Dem_Rep	0	653.66	310.39	277.61	Low income
+Gambia	0	808.28	630.59	633.68	Low income
+Madagascar	0	516.59	393.87	359.53	Low income
+Nigeria	0	2162.63	1632.97	1871.76	Lower middle income
+South_Africa	0.5	6766.48	5329.58	5753.07	Upper middle income
+Tanzania	0	1192.77	601.41	480.18	Lower middle income
+Uganda	0	964.4	510.43	346.77	Low income
+China	0.5	12720.22	4169.17	2099.22	Upper middle income
+Georgia	0	6674.96	2554.77	1996.02	Upper middle income
+India	1.0	2410.89	1027.73	802.01	Lower middle income
+Iran	0	4669.57	3539.23	3226.61	Lower middle income
+Israel	0	54930.94	25957.84	22494.64	High income
+Japan	0	34017.27	37941.63	38475.4	High income
+Kazakhstan	0	11492.03	5841.18	5291.57	Upper middle income
+Nepal	0	1336.55	538.99	341.03	Lower middle income
+South_Korea	0	32422.57	19914.12	19402.5	High income
+Thailand	0	6909.96	4047.24	3343.79	Upper middle income
+Viet_Nam	0	4163.51	1421.08	790.59	Lower middle income
+Czech_Republic	0.5	27226.62	14091.99	15261.8	High income
+France	0	40886.25	33419.66	36470.21	High income
+Italy	0.5	34776.42	29194.04	31317.2	High income
+Moldova	1.0	5714.43	1868.88	1183.02	Upper middle income
+Romania	0	15786.8	6335.07	5757.53	High income
+Slovakia	0	21256.81	12017.9	13170.78	High income
+Spain	0	29674.54	23465.27	26429.15	High income
+United_Kingdom	0.5	46125.26	35571.56	40217.01	High income
+USA	0	76329.58	44957.89	46302.0	High income
+Australia	0	65099.85	38943.92	36595.71	High income
+Papua_New_Guinea	0	3115.92	1576.84	1245.47	Lower middle income
+Argentina	0.5	13650.6	8738.72	8176.77	Upper middle income
+Colombia	0	6624.17	4406.43	3782.6	Upper middle income
+Ecuador	0	6391.28	3786.85	3340.84	Upper middle income
+Paraguay	0	6153.06	3580.78	2426.42	Upper middle income
+Peru	0	7125.83	3936.21	3123.32	Upper middle income

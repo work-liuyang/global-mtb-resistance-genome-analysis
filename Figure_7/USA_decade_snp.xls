@@ -1,0 +1,33 @@
+Drug	Variant	Pro_change	GenomeVar	Pos	VarType	Confidence	Freq	Total	Ratio	Date_World	Date_USA	format_Var
+capreomycin	tlyA_c.69_71delCGC	tlyA_p.Ala24del		1918005	disruptive_inframe_deletion	Mutation_from_literature	2	2	100.0%	2016	2016	tlyA_p.Ala24del
+capreomycin	tlyA_c.484_490delACCGTGT	tlyA_p.Thr162fs		1918421	frameshift_variant	Assoc w R	1	1	100.0%	2016	2016	tlyA_frameshift_variant
+ethambutol	embB_p.His312Arg	embB_p.His312Arg		4247448	missense_variant	Mutation_from_literature	1	11	9.1%	2016	2019	embB_p.His312Arg
+ethambutol	embB_p.Gly294Ser	embB_p.Gly294Ser		4247393	missense_variant	Uncertain significance	1	2	50.0%	2016	2019	embB_p.Gly294Ser
+ethambutol	embA_p.Ala462Val	embA_p.Ala462Val		4244617	missense_variant	Mutation_from_literature	2	2	100.0%	2019	2019	embA_p.Ala462Val
+ethambutol	embB_p.Met423Ile	embB_p.Met423Ile		4247782	missense_variant	Uncertain significance	1	1	100.0%	2016	2016	embB_p.Met423Ile
+ethambutol	embB_p.Gly745Asp	embB_p.Gly745Asp		4248747	missense_variant	Mutation_from_literature	1	1	100.0%	2018	2018	embB_p.Gly745Asp
+ethionamide	ethA_p.Cys403Gly	ethA_p.Cys403Gly		4326267	missense_variant	Uncertain significance	1	1	100.0%	2016	2016	ethA_p.Cys403Gly
+ethionamide	ethA_c.240delC	ethA_p.Ile81fs		4327233	frameshift_variant	Assoc w R	1	1	100.0%	2017	2017	ethA_frameshift_variant
+ethionamide	ethA_c.-418_*1141del	ethA_c.-418_*1141del		4324862	transcript_ablation	Assoc w R	1	1	100.0%	2016	2016	ethA_transcript_ablation
+ethionamide	ethA_c.901dupC	ethA_p.Leu301fs		4326572	frameshift_variant	Assoc w R	1	1	100.0%	2019	2019	ethA_frameshift_variant
+ethionamide	ethA_c.130_131delAC	ethA_p.Thr44fs		4327342	frameshift_variant	Assoc w R	1	1	100.0%	2016	2016	ethA_frameshift_variant
+isoniazid	katG_p.Thr394Ala	katG_p.Thr394Ala		2154932	missense_variant	Uncertain significance	3	5	60.0%	2016	2016	katG_p.Thr394Ala
+isoniazid	kasA_p.Asp66Asn	kasA_p.Asp66Asn		2518310	missense_variant	Mutation_from_literature	1	1	100.0%	2019	2019	kasA_p.Asp66Asn
+isoniazid	katG_c.1155_1156dupGG	katG_p.Val386fs		2154955	frameshift_variant	Assoc w R - interim	1	1	100.0%	2016	2016	katG_frameshift_variant
+isoniazid	katG_p.Gly299Ala	katG_p.Gly299Ala		2155216	missense_variant	Uncertain significance	1	1	100.0%	2019	2019	katG_p.Gly299Ala
+isoniazid	katG_c.1655_1656delTA	katG_p.Ile552fs		2154455	frameshift_variant	Assoc w R	1	1	100.0%	2016	2016	katG_frameshift_variant
+isoniazid	katG_c.-6070_*3595del	katG_c.-6070_*3595del		2150293	transcript_ablation	Assoc w R	1	1	100.0%	2019	2019	katG_transcript_ablation
+isoniazid	ahpC_c.-39C>T	ahpC_c.-39C>T	n.2726154C>T	2726154	upstream_gene_variant	Uncertain significance	1	1	100.0%	2018	2018	n.2726154C>T
+isoniazid	katG_c.-9565_*12426del	katG_c.-9565_*12426del		2141462	transcript_ablation	Assoc w R	1	1	100.0%	2016	2016	katG_transcript_ablation
+isoniazid	katG_c.1755dupC	katG_p.Val586fs		2154356	frameshift_variant	Assoc w R	1	1	100.0%	2015	2015	katG_frameshift_variant
+pyrazinamide	pncA_p.His57Asp	pncA_p.His57Asp		2289073	missense_variant	Assoc w R	10	40	25.0%	2016	2019	pncA_p.His57Asp
+pyrazinamide	pncA_c.48_400del	pncA_c.48_400del		2288841	frameshift_variant	Assoc w R	1	1	100.0%	2019	2019	pncA_frameshift_variant
+pyrazinamide	pncA_c.560dupG	pncA_p.Ter187fs		2288681	frameshift_variant&stop_lost&splice_region_variant	Assoc w R	1	1	100.0%	2018	2018	pncA_stop_lost
+pyrazinamide	pncA_c.-1142_322del	pncA_c.-1142_322del		2288919	frameshift_variant&start_lost	Assoc w R	1	1	100.0%	2016	2016	pncA_start_lost
+pyrazinamide	pncA_c.-1167_*1234del	pncA_c.-1167_*1234del		2287446	transcript_ablation	Assoc w R	1	1	100.0%	2019	2019	pncA_transcript_ablation
+pyrazinamide	pncA_c.71delG	pncA_p.Gly24fs		2289170	frameshift_variant	Assoc w R - interim	1	1	100.0%	2019	2019	pncA_frameshift_variant
+pyrazinamide	pncA_p.Tyr99*	pncA_p.Tyr99*		2288945	stop_gained	Assoc w R - interim	1	1	100.0%	2019	2019	pncA_stop_gained
+pyrazinamide	pncA_c.171_321del	pncA_c.171_321del		2288920	frameshift_variant	Assoc w R	1	1	100.0%	2019	2019	pncA_frameshift_variant
+streptomycin	gid_c.310dupA	gid_p.Met104fs		4407892	frameshift_variant	Assoc w R - interim	3	3	100.0%	2016	2016	gid_frameshift_variant
+streptomycin	gid_c.77delT	gid_p.Leu26fs		4408125	frameshift_variant	Assoc w R - interim	1	2	50.0%	2018	2019	gid_frameshift_variant
+streptomycin	rrs_n.905C>G	rrs_n.905C>G		1472750	non_coding_transcript_exon_variant	Uncertain significance	1	2	50.0%	2019	2019	n.1472750C>G
